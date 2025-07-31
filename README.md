@@ -20,11 +20,11 @@ This project is a fully functional **Library Management System** built using **M
 
 ## Features
 
-- 📖 Track books, authors, and publishers
-- 🏬 Manage multiple library branches
-- 👤 Handle borrower records
-- 📄 Record book loans and due dates
-- 📊 Generate custom reports using stored procedures
+-  Track books, authors, and publishers
+-  Manage multiple library branches
+-  Handle borrower records
+-  Record book loans and due dates
+-  Generate custom reports using stored procedures
 
 ## Technologies Used
 
